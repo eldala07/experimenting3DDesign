@@ -80,21 +80,25 @@ body {
     color: #B41E34;
     border: 2px solid white;
     transition: all 0.25s ease;
+    outline: none;
 }
 .sizes button:hover {
     border: 2px solid #B41E34;
     background-color: transparent;
     color: #B41E34;
+    outline: none;
 }
 button.active {
     background: #A41E34;
     color: white;
     transition: all 0.25s ease;
+    outline: none;
 }
 button.active:hover {
     background: #e97e8e;
     color: white;
     transition: all 0.25s ease;
+    outline: none;
 }
 
 .purchase {
